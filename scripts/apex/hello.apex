@@ -11,4 +11,3 @@ System.debug(('ya decimal ha') + object01.point);
 System.debug(('ya Integer ha') + object01.num);
 
 
-
